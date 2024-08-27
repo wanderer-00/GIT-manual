@@ -55,6 +55,15 @@ shanikal@et-l3 T01D01-1 %
 
 # GIT
 > <a href="#clone-rep">Клонировать репозиторий</a>
+> <a href="#branch">Ветки</a>
+>> <a href="#"></a>
+<a href="#"></a>
+<a href="#"></a>
+<a href="#"></a>
+<a href="#"></a>
+<a href="#"></a>
+<a href="#"></a>
+<a href="#"></a>
 
 ## <a id="clone-rep">Клонировать репозиторий</a>
 `git clone ссылка_на_репозиторий`
