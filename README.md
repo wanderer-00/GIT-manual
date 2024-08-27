@@ -53,4 +53,7 @@ M	src/ai_initial_module.sh
 M	src/ai_module_2.sh
 M	src/important_data_for_ai_module_2.txt
 Switched to branch 'develop'
+shanikal@et-l3 T01D01-1 % git branch
+* develop
+  master
 ```
