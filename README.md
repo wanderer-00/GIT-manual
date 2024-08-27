@@ -30,7 +30,18 @@ cd T01D01-1
 git branch develop
 ```
 ```bash
-name@et-l3 ~ % cd T01D01-1 
-name@et-l3 T01D01-1 % git branch develop
+shanikal@et-l3 ~ % cd T01D01-1 
+shanikal@et-l3 T01D01-1 % git branch develop
 ```
 В консоли ничего нет, как понять, что ветка создалась?
+### Проссмотр веток
+```bash
+git branch
+```
+```bash
+shanikal@et-l3 T01D01-1 % git branch
+  111
+* develop
+  master
+shanikal@et-l3 T01D01-1 %
+```
