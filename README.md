@@ -54,7 +54,9 @@ shanikal@et-l3 T01D01-1 %
 ![enter image description here](https://macmaniac.ru/content/uploads/ls.jpg)
 
 # GIT
-## Клонировать репозиторий
+> <a href="#clone-rep">Клонировать репозиторий</a>
+
+## <a id="clone-rep">Клонировать репозиторий</a>
 `git clone ссылка_на_репозиторий`
 
 Ссылку на репозитой можно найти на **GitLab**, **GitHub**. Например такая:<br>
