@@ -54,7 +54,7 @@ shanikal@et-l3 T01D01-1 %
 ![enter image description here](https://macmaniac.ru/content/uploads/ls.jpg)
 
 # GIT
-> <a href="#clone-rep">Клонировать репозиторий</a>
+> <a href="#clone-rep">Клонировать репозиторий</a><br>
 > <a href="#branch">Ветки</a>
 >> <a href="#"></a>
 <a href="#"></a>
