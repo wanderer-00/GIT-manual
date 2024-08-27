@@ -17,7 +17,7 @@
         <td>создание папки</td>
     </tr>
     <tr>
-        <td>rm -rfv</td>
+        <td>rm -rf</td>
         <td>удаление папки</td>
     </tr>
     <tr>
