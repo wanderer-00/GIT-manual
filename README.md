@@ -29,8 +29,8 @@
 cd T01D01-1
 git branch develop
 ```
-
 ```bash
 name@et-l3 ~ % cd T01D01-1 
 name@et-l3 T01D01-1 % git branch develop
 ```
+В консоли ничего нет, как понять, что ветка создалась?
