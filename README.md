@@ -43,4 +43,4 @@ shanikal@et-l3 T01D01-1 % git branch
   develop
 * master
 ```
-
+В репозитории 2 ветки <b>develop</b> и <b>master</b>
