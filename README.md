@@ -9,7 +9,13 @@
  1. Переходим в нужную папку
  2. Выводим список файлов и папок в ней
 
-`ls`
+```bash
+shanikal@et-l3 ~ % cd T01D01-1         
+shanikal@et-l3 T01D01-1 % ls
+CHANGELOG	README.md	code-samples	datasets	misc
+LICENSE		README_RUS.md	data-samples	materials	src
+shanikal@et-l3 T01D01-1 %
+```
 
 ![enter image description here](https://macmaniac.ru/content/uploads/ls.jpg)
 
