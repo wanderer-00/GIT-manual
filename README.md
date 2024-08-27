@@ -57,7 +57,7 @@ shanikal@et-l3 T01D01-1 %
 > <a href="#clone-rep">Клонировать репозиторий</a><br>
 > <a href="#branch">Ветки</a>
 >> <a href="#branch-creating">Создание ветки</a><br>
->> <a href="#">Проссмотр веток</a><br>
+>> <a href="branch-watch">Проссмотр веток</a><br>
 >> <a href="#">Смена ветки</a><br>
 <a href="#"></a>
 <a href="#"></a>
