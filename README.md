@@ -56,7 +56,7 @@ shanikal@et-l3 T01D01-1 %
 # GIT
 > <a href="#clone-rep">Клонировать репозиторий</a><br>
 > <a href="#branch">Ветки</a>
->> <a href="#"></a>
+>> <a href="#">Создать ветку</a>
 <a href="#"></a>
 <a href="#"></a>
 <a href="#"></a>
