@@ -20,4 +20,12 @@
 Ссылку на репозитой можно найти на **GitLab**, **GitHub**. Например такая:<br>
 `git clone https://github.com/wanderer-00/GIT-manual.git`
 
-## Создание ветки
+## Ветки
+### Создание
+1. Перейти в папку репозитория `cd путь_к_папке_репозитория`
+2. Создать ветку `git branch имя_ветки`
+
+```python
+cd T01D01-1
+git branch develop
+```
