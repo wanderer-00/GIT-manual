@@ -51,8 +51,6 @@ CHANGELOG	README.md	code-samples	datasets	misc
 LICENSE		README_RUS.md	data-samples	materials	src
 ```
 
-![enter image description here](https://macmaniac.ru/content/uploads/ls.jpg)
-
 # GIT
 > <a href="#clone-rep">Клонировать репозиторий</a><br>
 > <a href="#branch">Ветки</a>
