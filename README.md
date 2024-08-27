@@ -62,6 +62,9 @@ shanikal@et-l3 T01D01-1 % git branch
 ```bash
 git checkout имя_ветки
 ```
+<details>
+  <summary>пример использования</summary>
+ 
 ```bash
 shanikal@et-l3 T01D01-1 % git checkout develop
 M	src/ai_door_management_module.sh
@@ -73,6 +76,7 @@ shanikal@et-l3 T01D01-1 % git branch
 * develop
   master
 ```
+</details>
 ### &#9888; Ошибки при попытке просмотреть, создать или сменить ветку?
 ```bash
 shanikal@et-l3 ~ % git branch
