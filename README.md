@@ -44,7 +44,7 @@ shanikal@et-l3 T01D01-1 % git branch
 * master
 ```
 В репозитории 2 ветки: `develop` и `master`<br>
-При этом главной выбрана ветка `master`
+При этом главной выбрана ветка `master` (отмечена звездочкой)
 ### Смена ветки
 ```bash
 shanikal@et-l3 T01D01-1 % git checkout develop
