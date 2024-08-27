@@ -31,6 +31,6 @@ git branch develop
 ```
 
 ```bash
-shanikal@et-l3 ~ % cd T01D01-1 
-shanikal@et-l3 T01D01-1 % git branch develop
+name@et-l3 ~ % cd T01D01-1 
+name@et-l3 T01D01-1 % git branch develop
 ```
