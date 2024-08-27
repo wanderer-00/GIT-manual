@@ -45,3 +45,12 @@ shanikal@et-l3 T01D01-1 % git branch
 ```
 В репозитории 2 ветки: `develop` и `master`<br>
 При этом главной выбрана ветка `master`
+### Смена ветки
+```bash
+shanikal@et-l3 T01D01-1 % git checkout develop
+M	src/ai_door_management_module.sh
+M	src/ai_initial_module.sh
+M	src/ai_module_2.sh
+M	src/important_data_for_ai_module_2.txt
+Switched to branch 'develop'
+```
