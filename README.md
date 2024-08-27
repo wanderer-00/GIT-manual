@@ -88,7 +88,7 @@ shanikal@et-l3 T01D01-1 % git branch
 ```
 </details>
 
-### &#9888; Ошибки при попытке просмотреть, создать или сменить ветку?
+### &#10060; Ошибки при попытке просмотреть, создать или сменить ветку?
 ```bash
 shanikal@et-l3 ~ % git branch
 fatal: not a git repository (or any parent up to mount point /Users)
