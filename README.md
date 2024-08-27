@@ -74,3 +74,6 @@ fatal: not a git repository (or any parent up to mount point /Users)
 Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 ```
 Вы находитесь <b>не в папке</b> репозитория
+
+
+<a href='https://gist.github.com/Jekins/2bf2d0638163f1294637'>Инструкция по MarkDown</a>
