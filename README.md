@@ -7,8 +7,7 @@
 
 ## Как узнать какие файлы хранятся в папке?
  1. Переходим в папку
- 2. Выводим список файлов и папок в ней
-
+ 2. Выводим список файлов и папок в ней<br>
 `ls`
 
 ![enter image description here](https://macmaniac.ru/content/uploads/ls.jpg)
