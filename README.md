@@ -42,6 +42,5 @@ git branch
 shanikal@et-l3 T01D01-1 % git branch
   develop
 * master
-shanikal@et-l3 T01D01-1 %
 ```
 
