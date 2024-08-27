@@ -21,7 +21,7 @@
 `git clone https://github.com/wanderer-00/GIT-manual.git`
 
 ## Ветки
-### Создание
+### Создание ветки
 1. Перейти в папку репозитория `cd путь_к_папке_репозитория`
 2. Создать ветку `git branch имя_ветки`
 
@@ -57,3 +57,10 @@ shanikal@et-l3 T01D01-1 % git branch
 * develop
   master
 ```
+### Ошибки при попытке просмотреть, создать или сменить ветку?
+```bash
+shanikal@et-l3 ~ % git branch
+fatal: not a git repository (or any parent up to mount point /Users)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+```
+Вы находитесь не в папке репозитория
