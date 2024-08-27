@@ -77,6 +77,7 @@ shanikal@et-l3 T01D01-1 % git branch
   master
 ```
 </details>
+
 ### &#9888; Ошибки при попытке просмотреть, создать или сменить ветку?
 ```bash
 shanikal@et-l3 ~ % git branch
