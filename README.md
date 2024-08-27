@@ -40,8 +40,8 @@ git branch
 ```
 ```bash
 shanikal@et-l3 T01D01-1 % git branch
-  111
-* develop
-  master
+  develop
+* master
 shanikal@et-l3 T01D01-1 %
 ```
+
