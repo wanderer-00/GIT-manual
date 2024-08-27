@@ -53,6 +53,9 @@ shanikal@et-l3 T01D01-1 % git branch
 При этом главной выбрана ветка `master` (отмечена звездочкой)
 ### ♻️ Смена ветки
 ```bash
+git checkout имя_ветки
+```
+```bash
 shanikal@et-l3 T01D01-1 % git checkout develop
 M	src/ai_door_management_module.sh
 M	src/ai_initial_module.sh
