@@ -9,23 +9,23 @@
         <td>список файлов и папок</td>
     </tr>
     <tr>
-        <td>cd путь</td>
+        <td>cd</td>
         <td>перемещение по папкам</td>
     </tr>
     <tr>
-        <td>mkdir имя_папки</td>
+        <td>mkdir</td>
         <td>создание папки</td>
     </tr>
     <tr>
-        <td>rmdir имя_папки</td>
+        <td>rmdir</td>
         <td>удаление папки</td>
     </tr>
     <tr>
-        <td>touch название_файла</td>
+        <td>touch</td>
         <td>создание файла</td>
     </tr>
     <tr>
-        <td>rm название_файла</td>
+        <td>rm</td>
         <td>удаление файла</td>
     </tr>
 </table>
