@@ -134,7 +134,7 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 ```
 Вы находитесь <b>не в папке</b> репозитория
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canon-kz.com%2Fget-inspired%2Ftips-and-techniques%2Fnight-sky-photography-tips%2F&psig=AOvVaw0ajl7XsUpBs9Hm_5seAfIE&ust=1724897170885000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi41uvMlogDFQAAAAAdAAAAABAJ">
+<img src="https://i1.adis.ws/i/canon/pca-exercise-astrophotography-tips-astro-david_clapp-jackson_snake_point_03-16.9_5c278940a5244ed7a57e2158b0e719b3?$hero-header-half-16by9-dt-jpg">
 
 <details>
   <summary>Справочные материалы</summary>
