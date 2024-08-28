@@ -52,21 +52,6 @@ LICENSE		README_RUS.md	data-samples	materials	src
 ```
 
 # GIT
-<table>
-    <tr>
-        <th>Команда</th>
-        <th>Описание</th>
-    </tr>
-    <tr>
-        <td>git clone ссылка_на_репозиторий</td>
-        <td>копирование репозиторя на ПК</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
-
 > <a href="#clone-rep">Клонировать репозиторий</a><br>
 > <a href="#branch">Ветки</a>
 >> <a href="#branch-creating">Создание ветки</a><br>
