@@ -134,6 +134,13 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 ```
 Вы находитесь <b>не в папке</b> репозитория
 
+### Отправка изменений PUSH
+```bash
+git add --all
+git commit -m 'ваш_комментарий_к_комиту'
+git push origin название_ветки_в_которую_отправляете_изменения
+```
+
 <img src="https://i1.adis.ws/i/canon/pca-exercise-astrophotography-tips-astro-david_clapp-jackson_snake_point_03-16.9_5c278940a5244ed7a57e2158b0e719b3?$hero-header-half-16by9-dt-jpg">
 
 <details>
