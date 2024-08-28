@@ -1,7 +1,7 @@
 <div>
     <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg' height='100px'>
     <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg' height='100px'>
-    <video src='https://cdn-icons-mp4.flaticon.com/512/12620/12620060.mp4' autoplay height='100px'>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/d/d8/Animated_clock.svg' height='100px'>
 </div>
 
 # Команды CLI
