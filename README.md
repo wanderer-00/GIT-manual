@@ -141,3 +141,5 @@ git push origin название_ветки_в_которую_отправляе
   <summary>Справочные материалы</summary>
 <a href='https://gist.github.com/Jekins/2bf2d0638163f1294637'>Инструкция по MarkDown</a>
 </details>
+
+# killall bash - убить всё
