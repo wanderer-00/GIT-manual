@@ -101,8 +101,6 @@ shanikal@et-l3 T01D01-1 % git branch
 ```bash
 git checkout имя_ветки
 ```
-<details>
-  <summary>пример использования</summary>
  
 ```bash
 shanikal@et-l3 T01D01-1 % git checkout develop
@@ -115,7 +113,6 @@ shanikal@et-l3 T01D01-1 % git branch
 * develop
   master
 ```
-</details>
 
 ### &#10060; Ошибки при попытке просмотреть, создать или сменить ветку?
 ```bash
