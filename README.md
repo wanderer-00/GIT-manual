@@ -134,7 +134,7 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 ```
 Вы находитесь <b>не в папке</b> репозитория
 
-### Отправка изменений PUSH
+### &#128640; Отправка изменений PUSH
 ```bash
 git add --all
 git commit -m 'ваш_комментарий_к_комиту'
