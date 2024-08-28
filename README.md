@@ -115,6 +115,8 @@ shanikal@et-l3 T01D01-1 % git branch
   master
 ```
 
+## <a id="branch-del">&#128465; Удалени ветки</a>
+
 ## &#10060; Ошибки при попытке просмотреть, создать или сменить ветку?
 ```bash
 shanikal@et-l3 ~ % git branch
