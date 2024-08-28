@@ -1,5 +1,5 @@
 <div>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg'>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg' width='100px'>
 </div>
 
 # Команды CLI
