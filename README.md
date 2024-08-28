@@ -88,9 +88,6 @@ shanikal@et-l3 T01D01-1 % git branch develop
 git branch
 ```
 
-<details>
-  <summary>пример использования</summary>
-
 ```bash
 shanikal@et-l3 T01D01-1 % git branch
   develop
@@ -98,7 +95,6 @@ shanikal@et-l3 T01D01-1 % git branch
 ```
 В репозитории 2 ветки: `develop` и `master`<br>
 При этом главной выбрана ветка `master` (отмечена звездочкой)
-</details>
 
 ### ♻️ Смена ветки
 Смени ветку и все изменения проекта будут в ней
