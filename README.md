@@ -70,8 +70,8 @@ LICENSE		README_RUS.md	data-samples	materials	src
 > <a href="#clone-rep">Клонировать репозиторий</a><br>
 > <a href="#branch">Ветки</a>
 >> <a href="#branch-creating">Создание ветки</a><br>
->> <a href="branch-look">Проссмотр веток</a><br>
->> <a href="branch-checkout">Смена ветки</a><br>
+>> <a href="#branch-look">Проссмотр веток</a><br>
+>> <a href="#branch-checkout">Смена ветки</a><br>
 <a href="#"></a>
 
 ## <a id="clone-rep">Клонировать репозиторий</a>
