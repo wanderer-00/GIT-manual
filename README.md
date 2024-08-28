@@ -1,3 +1,7 @@
+<div>
+    <img src='https://img.icons8.com/?size=512&id=34886&format=png'>
+</div>
+
 # Команды CLI
 <table>
     <tr>
