@@ -118,10 +118,14 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 Вы находитесь <b>не в папке</b> репозитория
 
 ## &#128640; Отправка изменений PUSH
+1. Помещение файла под контроль версий `git add имя_файла`
+2. Создание коммита `git commit -m 'ваш_комментарий_к_комиту'`
+3. Отправка изменений в репозиторий `git push origin название_ветки_в_которую_отправляете_изменения`
+
 ```bash
-git add --all
-git commit -m 'ваш_комментарий_к_комиту'
-git push origin название_ветки_в_которую_отправляете_изменения
+git add --all # помещени всех фалов под контроль
+git commit -m 'ваш_комментарий_к_комиту' # создание коммита с комментарием
+git push origin название_ветки_в_которую_отправляете_изменения # отправка изменений в ветку репозитория
 ```
 
 <img src="https://i1.adis.ws/i/canon/pca-exercise-astrophotography-tips-astro-david_clapp-jackson_snake_point_03-16.9_5c278940a5244ed7a57e2158b0e719b3?$hero-header-half-16by9-dt-jpg">
