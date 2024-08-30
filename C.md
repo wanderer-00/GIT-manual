@@ -1,6 +1,6 @@
 # C
 
-## Арифметические выражения
+## Компиляция программы через *GCC* *C11*
 ```c
 gcc -Wall -std=c11 -Werror -Wextra -o hello hello.c
 ```
