@@ -2,11 +2,11 @@
 
 ## Компиляция программы через <b>GCC</b> <b>C11</b>
 ```c
-gcc -Wall -std=c11 -Werror -Wextra -o hello hello.c
+gcc -Wall -std=c11 -Werror -Wextra -o имя_скомпилированного_файла имя_файла.c
 ```
-
+Или краткая версия
 ```c
-gcc -Wall -std=c11 -Werror -Wextra hello.c
+gcc -Wall -std=c11 -Werror -Wextra имя_файла.c
 ```
 
 
