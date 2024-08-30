@@ -8,7 +8,7 @@ gcc -Wall -std=c11 -Werror -Wextra -o имя_скомпилированного_
 ```c
 gcc -Wall -std=c11 -Werror -Wextra имя_файла.c
 ```
-
+При краткой версии имя скомпилированного файла будет ```a.out``` 
 
 ```c
 #include <stdio.h>
