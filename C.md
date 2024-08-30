@@ -25,3 +25,12 @@ gcc -Wall -std=c11 -Werror -Wextra имя_файла.c
 printf("\n");
 ```
 
+
+```c
+if [ "$#" -ne 1 ]; then
+    echo "Данный скрипт принимает 1 аргумент"
+    exit 1
+fi
+
+filePath=$1
+```
