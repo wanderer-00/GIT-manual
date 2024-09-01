@@ -45,8 +45,8 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 printf "\033[3;36;44m Текст \033[0m\n"
 ```
 <b>Форматирование текста</b>
-<div style="display: inline-flex">
-  <table style="display: flex">
+<div>
+  <table>
       <tr>
         <th>Код</th>
         <th>Описание</th>
@@ -75,10 +75,9 @@ printf "\033[3;36;44m Текст \033[0m\n"
         <td>9</td>
         <td>Зачёркнутый</td>
       </tr>
-  </table><img src="unix-txt-format.png">
+  </table>
+  <img src="unix-txt-format.png">
 </div>
-
-
 <a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
 # C
