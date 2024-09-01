@@ -1,5 +1,5 @@
 # Консоль
-## Поддерживаемые символы
+## Поддерживаемые символы <a href='https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html'>ASCII</a>
 ```
 Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 ---------                           ---------     ---------     ----------
@@ -36,7 +36,6 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
  30  RS  (record separator)          62  >         94  ^        126  ~
  31  US  (unit separator)            63  ?         95  _        127  DEL
 ```
-<a href='https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html'>Источник</a>
 
 # C
 ## Делаем красивый код )
