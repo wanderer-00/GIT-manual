@@ -45,37 +45,41 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 printf "\033[3;36;44m Текст \033[0m\n"
 ```
 <b>Форматирование текста</b>
-<table>
-    <tr>
-      <th>Код</th>
-      <th>Описание</th>
-    </tr>
-    <tr>
-      <td>1</td> 
-      <td>Жирный</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Блеклый</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Курсив</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Подчёркнутый</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Мигание</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Зачёркнутый</td>
-    </tr>
-</table>
-<img src="unix-txt-format.png">
+<div>
+  <table>
+      <tr>
+        <th>Код</th>
+        <th>Описание</th>
+      </tr>
+      <tr>
+        <td>1</td> 
+        <td>Жирный</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Блёклый</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Курсив</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Подчёркнутый</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Мигание</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Зачёркнутый</td>
+      </tr>
+  </table>
+
+  <img src="unix-txt-format.png">
+</div>
+
 
 <a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
