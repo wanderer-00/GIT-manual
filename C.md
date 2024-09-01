@@ -37,6 +37,9 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
  31  US  (unit separator)            63  ?         95  _        127  DEL
 ```
 ## Окраска текста и фона
+```bash
+
+```
 
 # C
 ## Делаем красивый код )
