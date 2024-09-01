@@ -38,7 +38,7 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 ```
 ## Окраска текста и фона
 ```bash
-
+printf "\033[92m Текст \033[0m\n"
 ```
 
 # C
