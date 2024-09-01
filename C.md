@@ -77,6 +77,44 @@ printf "\033[3;36;44m Текст \033[0m\n"
       </tr>
   </table>
   <img src="unix-txt-format.png">
+  <table>
+      <tr>
+        <th>Код</th>
+        <th>Описание</th>
+      </tr>
+      <tr>
+        <td>30</td> 
+        <td>Чёрный</td>
+      </tr>
+      <tr>
+        <td>31</td> 
+        <td>Красный</td>
+      </tr>
+      <tr>
+        <td>32</td>
+        <td>Зелёный</td>
+      </tr>
+      <tr>
+        <td>33</td>
+        <td>Жёлтый</td>
+      </tr>
+      <tr>
+        <td>34</td>
+        <td>Синий</td>
+      </tr>
+      <tr>
+        <td>35</td>
+        <td>Фиолетовый</td>
+      </tr>
+      <tr>
+        <td>36</td>
+        <td>Бирюзовый</td>
+      </tr>
+      <tr>
+        <td>37</td>
+        <td>Белый</td>
+      </tr>
+  </table>
 </div>
 <a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
