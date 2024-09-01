@@ -1,5 +1,5 @@
 # Консоль
-## Поддерживаемые символы <a href='https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html'>ASCII</a>
+## Поддерживаемые символы <a href="https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html">ASCII</a>
 ```
 Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 ---------                           ---------     ---------     ----------
@@ -40,6 +40,7 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 ```bash
 printf "\033[92m Текст \033[0m\n"
 ```
+<a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
 # C
 ## Делаем красивый код )
