@@ -44,6 +44,9 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 ```bash
 printf "\033[3;36;44m Текст \033[0m\n"
 ```
+<table>
+  
+</table>
 <a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
 # C
