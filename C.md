@@ -37,9 +37,9 @@ filePath=$1
 
 ```c
 int i;
+for (i = 0; i < 10; ++i){ printf("%d ", i) }
+```
 
-for (i = 1; i < 11; ++i)
-{
- printf("%d ", i);
-}
+```bash
+0123456789
 ```
