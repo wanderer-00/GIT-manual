@@ -36,6 +36,7 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
  30  RS  (record separator)          62  >         94  ^        126  ~
  31  US  (unit separator)            63  ?         95  _        127  DEL
 ```
+## Окраска текста и фона
 
 # C
 ## Делаем красивый код )
