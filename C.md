@@ -34,13 +34,10 @@ fi
 
 filePath=$1
 ```
-
+## FOR
 ```c
 int i;
-for (i = 0; i < 10; ++i)
-{
-    printf("%d ", i)
-}
+for (i = 0; i < 10; ++i) {printf("%d ", i)}
 ```
 
 ```bash
