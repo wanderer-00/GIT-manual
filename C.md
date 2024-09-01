@@ -45,7 +45,7 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
 printf "\033[3;36;44m Текст \033[0m\n"
 ```
 <b>Форматирование текста</b>
-<div style="display: flex">
+<div style="display: inline-flex">
   <table>
       <tr>
         <th>Код</th>
