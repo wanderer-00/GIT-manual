@@ -46,7 +46,7 @@ printf "\033[3;36;44m Текст \033[0m\n"
 ```
 <b>Форматирование текста</b>
 <div style="display: inline-flex">
-  <table style="display: inline">
+  <table style="display: flex">
       <tr>
         <th>Код</th>
         <th>Описание</th>
