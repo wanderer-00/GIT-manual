@@ -37,8 +37,12 @@ Dec  Char                           Dec  Char     Dec  Char     Dec  Char
  31  US  (unit separator)            63  ?         95  _        127  DEL
 ```
 ## Окраска текста и фона
+Синтаксис. Вставте нужные коды из таблиц
 ```bash
-printf "\033[92m Текст \033[0m\n"
+\033[форматирование_текста;цвет_текста;цвет_фонаm
+```
+```bash
+printf "\033[3;36;44m Текст \033[0m\n"
 ```
 <a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
