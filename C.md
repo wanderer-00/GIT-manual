@@ -75,7 +75,7 @@ printf "\033[3;36;44m Текст \033[0m\n"
       <td>Зачёркнутый</td>
     </tr>
 </table>
-<img src="">
+<img src="unix-txt-format.png">
 
 <a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
