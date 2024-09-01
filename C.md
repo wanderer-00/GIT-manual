@@ -34,3 +34,12 @@ fi
 
 filePath=$1
 ```
+
+```c
+int i;
+
+for (i = 1; i < 11; ++i)
+{
+ printf("%d ", i);
+}
+```
