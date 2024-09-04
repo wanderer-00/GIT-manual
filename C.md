@@ -126,7 +126,7 @@ printf "\033[3;36;44m Текст \033[0m\n"
 ```bash
 clang-format -i
 ```
-✖ До
+&#10060; До
 ```c
 void input(int *a){for(int i=0;i<10;++i){scanf("%d",&a[i]);}}
 ```
