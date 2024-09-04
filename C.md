@@ -130,7 +130,7 @@ clang-format -i
 ```c
 void input(int *a){for(int i=0;i<10;++i){scanf("%d",&a[i]);}}
 ```
-✔ После
+<div style="color: green">✔</div> После
 ```c
 void input(int *a) {
     for (int i = 0; i < 10; ++i) {
