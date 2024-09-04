@@ -118,6 +118,14 @@ printf "\033[3;36;44m Текст \033[0m\n"
 </div>
 <a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
 # C
 ## Verter
 Перемещаем файл `.clang-format` из папки `materials/linters` в папку со скриптом, который нужно поправить, в `src`<br>
