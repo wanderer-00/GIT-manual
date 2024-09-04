@@ -119,7 +119,7 @@ printf "\033[3;36;44m Текст \033[0m\n"
 <a href="https://habr.com/ru/companies/macloud/articles/558316/">Источник</a>
 
 # C
-## Делаем красивый код
+## Verter
 Перемещаем файл `.clang-format` из папки `materials/linters` в папку со скриптом, который нужно поправить, в `src`<br>
 `.clang-format` скрытый файл, для отображения скрытых файлов в <b>Finder</b> нажмите сочетание клавишь<br>
 <b>&#8984; Command</b> + <b>&#8679; Shift</b> + <b>.<sup>ю</sup></b><br>
