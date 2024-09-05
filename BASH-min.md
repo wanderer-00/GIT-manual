@@ -1,3 +1,4 @@
+ Gthtvtotybt
 ```bash
 cd путь/путь/путь
 ```
