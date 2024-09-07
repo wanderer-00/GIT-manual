@@ -1,4 +1,6 @@
-```bash
+<details>
+  <summary>Spoiler warning</summary>
+   ```bash
 Run tests:
 
 -------------------------------------------------------------------------------
@@ -274,3 +276,5 @@ Failed (0 XP, 0%)
 Project failed
 
 ```
+</details>
+
