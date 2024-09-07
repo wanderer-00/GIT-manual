@@ -17,17 +17,14 @@
   - `Test number` ~5 проверок...
 4. И так далее по следующим квестам
 
-Первое что проверяет Verter - <b>clang-format</b>. Если программа не соответствует нормам стиля кода, то задание не получит ни одного балла<br>
-Вторым делом он проверяет <b>возможность скомпилировать программу</b>. Если программа скомпилировалась, то он начнёт проверку своими тестами
-
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> [!NOTE]
+> Первое что проверяет Verter - <b>clang-format</b>. Если программа не соответствует нормам стиля кода, то квест не получит ни одного балла<br>
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> Вторым делом Verter проверяет <b>возможность скомпилировать программу</b>. Если программа скомпилировалась, то он начнёт проверку своими тестами
 
 > [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+> Если программа не проходит <b>clang-format</b> и может скомпилироваться, то Verter начнет тесты. Если программа проходит тест, то это всё равно 0 баллов
 
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
