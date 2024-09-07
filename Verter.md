@@ -574,7 +574,7 @@ Project failed
 2. `Quest_1` задание 1
   - `Style test`
   - `Build test`
-  - `Test number`
+  - `Test number` вводит свои значения, сравнивает ответ вашей программы с правильным ответом
 4. `Quest_2` задание 2
   - `Style test`
   - `Build test`
