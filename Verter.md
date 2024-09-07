@@ -562,6 +562,11 @@ Project failed
 
 </details>
 
-Задание T06D09
-Квестов 5
+Схема проверки Verter
+1. Объявление о начале тестирования `Run tests`
+2. `Quest_1`
+3. `Quest_2`
+4. `Quest_3`
+5. `Quest_4`
+6. `Quest_5` 
 
