@@ -569,7 +569,7 @@ Project failed
 
 </details>
 
-Схема проверки Verter
+## Схема проверки Verter
 1. `Run tests` объявление о начале тестирования
 2. `Quest_1` задание 1
   - `Style test`
