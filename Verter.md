@@ -1,5 +1,6 @@
 <details>
   <summary>Spoiler warning</summary>
+
 ```bash
 Run tests:
 
