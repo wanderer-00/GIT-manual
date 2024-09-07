@@ -563,10 +563,10 @@ Project failed
 </details>
 
 Схема проверки Verter
-1. Объявление о начале тестирования `Run tests`
-2. `Quest_1`
-3. `Quest_2`
-4. `Quest_3`
-5. `Quest_4`
-6. `Quest_5` 
+1. `Run tests` объявление о начале тестирования
+2. `Quest_1` задание 1
+3. `Quest_2` задание 2
+4. `Quest_3` задание 3
+5. `Quest_4` задание 4
+6. `Quest_5` задание 5
 
