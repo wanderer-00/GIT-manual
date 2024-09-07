@@ -1,5 +1,5 @@
 <details>
-  <summary>Spoiler warning</summary>
+  <summary>Полный вывод Verter Задание №1</summary>
 
 ```bash
 Run tests:
