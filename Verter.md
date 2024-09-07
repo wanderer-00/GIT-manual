@@ -1,5 +1,5 @@
 <details>
-  <summary>Полный вывод Verter Задание №1</summary>
+  <summary>Полный вывод Verter Задание T06D09</summary>
 
 ```bash
 Run tests:
@@ -281,7 +281,7 @@ Project failed
 </details>
 
 <details>
-  <summary>Сокращённый вывод Verter Задание №1</summary>
+  <summary>Сокращённый вывод Verter Задание T06D09</summary>
 
 ```bash
 Run tests:
@@ -561,4 +561,7 @@ Project failed
 ```
 
 </details>
+
+Задание T06D09
+Квестов 5
 
