@@ -574,15 +574,20 @@ Project failed
 2. `Quest_1` задание 1
   - `Style test`
   - `Build test`
+  - `Test number`
 4. `Quest_2` задание 2
   - `Style test`
   - `Build test`
+  - `Test number`
 5. `Quest_3` задание 3
   - `Style test`
   - `Build test`
+  - `Test number`
 6. `Quest_4` задание 4
   - `Style test`
   - `Build test`
+  - `Test number`
 7. `Quest_5` задание 5
   - `Style test`
   - `Build test`
+  - `Test number`
