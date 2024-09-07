@@ -280,3 +280,285 @@ Project failed
 
 </details>
 
+<details>
+  <summary>Сокращённый вывод Verter Задание №1</summary>
+
+```bash
+Run tests:
+
+-------------------------------------------------------------------------------
+
+Quest_1
+
+Style test
+Style test output:
+b'key9part1.c:1:39: warning: code should be clang-formatted [-Wclang-format-violations]'
+Style test: FAIL 0
+
+Style test result: 0
+
+-------------------------------------------------------------------------------
+
+Build output:
+
+Project build: OK 1
+
+Build result: 1
+
+-------------------------------------------------------------------------------
+
+Test number: 0, name: Quest_1
+
+Test output: Result for test with number 0: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 1, name: Quest_1
+
+Test output: Result for test with number 1: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 2, name: Quest_1
+
+Test output: Result for test with number 2: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 3, name: Quest_1
+
+Test output: Result for test with number 3: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 4, name: Quest_1
+
+Test output: Result for test with number 4: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 5, name: Quest_1
+
+Test output: Result for test with number 5: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 6, name: Quest_1
+
+Test output: Result for test with number 6: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 7, name: Quest_1
+
+Test output: Result for test with number 7: OK 1
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Quest_2
+
+Style test
+Style test output:
+b'key9part1.c:1:39: warning: code should be clang-formatted [-Wclang-format-violations]'
+Style test: FAIL 0
+
+Style test result: 0
+
+-------------------------------------------------------------------------------
+
+Build output:
+cc1: fatal error: /builds/pipelines/test/to/src/fast_sort.c: No such file or directory
+compilation terminated.
+
+Build failed with exit code 1. 0
+
+Build result: 0
+
+-------------------------------------------------------------------------------
+
+Test output: Build fail
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Quest_3
+
+Style test
+Style test output:
+b'key9part1.c:1:39: warning: code should be clang-formatted [-Wclang-format-violations]'
+Style test: FAIL 0
+
+Style test result: 0
+
+-------------------------------------------------------------------------------
+
+Build output:
+/builds/pipelines/test/to/src/key9part1.c: In function 'find_numbers':
+/builds/pipelines/test/to/src/key9part1.c:24:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   24 | {
+      | ^
+/builds/pipelines/test/to/src/key9part1.c:34:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   34 | {
+      | ^
+/builds/pipelines/test/to/src/key9part1.c:55:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+   55 | {
+      | ^
+/builds/pipelines/test/to/src/key9part1.c:58: error: expected '{' at end of input
+
+Build failed with exit code 1. 0
+
+Build result: 0
+
+-------------------------------------------------------------------------------
+
+Test output: Build fail
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Quest_4
+
+Style test
+Style test output:
+b'key9part1.c:1:39: warning: code should be clang-formatted [-Wclang-format-violations]'
+Style test: FAIL 0
+
+Style test result: 0
+
+-------------------------------------------------------------------------------
+
+Build output:
+cc1: fatal error: /builds/pipelines/test/to/src/cycle_shift.c: No such file or directory
+compilation terminated.
+
+Build failed with exit code 1. 0
+
+Build result: 0
+
+-------------------------------------------------------------------------------
+
+Test output: Build fail
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Quest_5
+
+Style test
+Style test output:
+b'key9part1.c:1:39: warning: code should be clang-formatted [-Wclang-format-violations]'
+Style test: FAIL 0
+
+Style test result: 0
+
+-------------------------------------------------------------------------------
+
+Build output:
+
+Project build: OK 1
+
+Build result: 1
+
+-------------------------------------------------------------------------------
+
+Test number: 29, name: Quest_5
+
+Test output: Result for test with number 29: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 30, name: Quest_5
+
+Test output: Result for test with number 30: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 31, name: Quest_5
+
+Test output: Result for test with number 31: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 32, name: Quest_5
+
+Test output: Result for test with number 32: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 33, name: Quest_5
+
+Test output: Result for test with number 33: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 34, name: Quest_5
+
+Test output: Result for test with number 34: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 35, name: Quest_5
+
+Test output: Result for test with number 35: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 36, name: Quest_5
+
+Test output: Result for test with number 36: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+Test number: 37, name: Quest_5
+
+Test output: Result for test with number 37: FAIL 0
+
+Test result: 0
+
+-------------------------------------------------------------------------------
+
+
+
+
+Failed (0 XP, 0%)
+Project failed
+
+```
+
+</details>
+
