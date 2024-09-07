@@ -26,12 +26,6 @@
 > [!IMPORTANT]  
 > Если программа не проходит <b>clang-format</b> и может скомпилироваться, то Verter начнет тесты. Если программа проходит тест, то это всё равно 0 баллов
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-
 ## Материалы
 <details>
   <summary>Полный вывод Verter Задание T06D09</summary>
