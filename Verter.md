@@ -565,9 +565,17 @@ Project failed
 Схема проверки Verter
 1. `Run tests` объявление о начале тестирования
 2. `Quest_1` задание 1
-  - 123
+  - `Style test`
+  - `Build test`
 4. `Quest_2` задание 2
+  - `Style test`
+  - `Build test`
 5. `Quest_3` задание 3
+  - `Style test`
+  - `Build test`
 6. `Quest_4` задание 4
+  - `Style test`
+  - `Build test`
 7. `Quest_5` задание 5
-
+  - `Style test`
+  - `Build test`
