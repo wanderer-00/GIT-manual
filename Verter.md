@@ -20,14 +20,20 @@
 Первое что проверяет Verter - <b>clang-format</b>. Если программа не соответствует нормам стиля кода, то задание не получит ни одного балла<br>
 Вторым делом он проверяет <b>возможность скомпилировать программу</b>. Если программа скомпилировалась, то он начнёт проверку своими тестами
 
-!!! important "Моё уведомление"
-    вместо important можно задать любой класс. наша css тема сейчас поддерживает 3 класса: important, danger, notice. Если надо можно добавить свои-переоформить текущие. Я сейчас использую только important
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
-!!! danger "Пример danger"
-    здесь указан класс danger
+> [!TIP]
+> Optional information to help a user be more successful.
 
-!!! notice "Пример notice"
-    здесь указан класс notice
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 
 ## Материалы
 <details>
